@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[my real life adventures]]></title>
+        <description><![CDATA[my real life adventures]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 06:58:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>he arrived at reception hot and sweaty. his accent thick, german. his skin tanned. </p>]]></description>
+            <link>undefinedhe-arrived-at-reception-hot-and-sweaty-his-accent-thick-ge/index.html</link>
+            <guid isPermaLink="false">f77aadad-2d08-45a8-8e4c-c2b7b44f3fdd</guid>
+            <pubDate>Sat, 23 Apr 2016 06:58:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
